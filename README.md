@@ -21,3 +21,4 @@ Throughout the semester, this portfolio will document my learning and practical 
 ## Laboratory Activities
 
 - [Laboratory 01 – Welcome to the Cloud](Laboratory-01-Welcome-to-the-Cloud/)
+- [Laboratory 03 – Multi-Cloud Explorer](Laboratory-03-Multi-Cloud-Explorer/)
